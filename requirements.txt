@@ -1,0 +1,4 @@
+voila
+numpy                 # For numerical operations
+networkx             # For creating and manipulating complex networks
+pyqtgraph             # For interactive data visualization in Python
