@@ -1,0 +1,20 @@
+name: kagomekagome
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - numpy
+  - networkx
+  - matplotlib
+  - pyqtgraph
+  - pyside6
+  - websockify
+  - jupyter-server-proxy
+  - pip
+  - pip:
+      - jupyter-remote-desktop-proxy
