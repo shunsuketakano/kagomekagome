@@ -1,0 +1,11 @@
+dbus-x11
+xfce4
+xfce4-panel
+xfce4-session
+xfce4-settings
+xorg
+xubuntu-icon-theme
+tigervnc-standalone-server
+libxcb-cursor0
+libxkbcommon-x11-0
+libxcb-xinerama0
