@@ -11,10 +11,10 @@ dependencies:
   - numpy
   - networkx
   - matplotlib
-  - pyqtgraph
-  - pyside6
-  - websockify
-  - jupyter-server-proxy
+  - plotly
+  - ipywidgets
+  - anywidget
+  - voila
   - pip
   - pip:
       - jupyter-remote-desktop-proxy
